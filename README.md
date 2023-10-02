@@ -14,7 +14,7 @@ Stuktur dasar HTML terdiri dari  tag DTD atau DOCTYPE, tag html, tag head, dan t
 ```
 Code
 ```
-(foto0.PNG)
+![foto0.PNG](foto0.PNG)
 ```
 hasil
 ```
@@ -26,8 +26,7 @@ Untuk menambahakan paragraf kita mengguakan tag
 ``` <p> </p> ```
 contoh
 
-![gbr3](foto/gbr3.png)
-
+![foto1.PNG](foto1.PNG)
 atribut dalam tag paragraf untuk mengatur rata text adalah atribut align dengan perintah right, left, center dan justify
 
 #### 2. Menambah Judul
@@ -39,7 +38,7 @@ dari h1. h2, h2 sampai h6 gunakan sesuai kebutuhan
 ```
 contoh 
 
-![gbr4](foto/gbr4.png)
+![foto2.PNG](foto2.PNG)
 
 #### 3. memformat text 
 
@@ -50,7 +49,7 @@ menggunakan tad
 
 contoh
 
-![gbr5](foto/gbr5.png)
+![foto3.PNG](foto3.PNG)
 
 #### 4. Menambahkan gambar 
 
@@ -64,7 +63,7 @@ tambahkan nama folder jika gambar tersebut tersimpan pada folder yang berbeda, j
 ```
 contoh
 
-![gbr6](foto/gbr6.png)
+![foto4.PNG](foto4.PNG)
 
 #### 5. menambahkan hyperlink
 
@@ -74,7 +73,7 @@ untuk menambahakan hyper link cukup menggunakan tag a dan sisipkan link tujuan d
 ```
 contoh 
 
-![foto5](pp/foto5.PNG)
+![foto5.PNG](foto5.PNG)
 
 ### Sekian Penjelasan latihan
 
