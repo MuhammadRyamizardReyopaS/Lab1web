@@ -14,7 +14,7 @@ Stuktur dasar HTML terdiri dari  tag DTD atau DOCTYPE, tag html, tag head, dan t
 ```
 Code
 ```
-![gbr2](foto/gbr2.png)
+foto0.PNG
 ```
 hasil
 ```
