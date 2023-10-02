@@ -74,7 +74,7 @@ untuk menambahakan hyper link cukup menggunakan tag a dan sisipkan link tujuan d
 ```
 contoh 
 
-![gbr7](foto/gbr7.png)
+![foto5](pp/foto5 .PNG)
 
 ### Sekian Penjelasan latihan
 
