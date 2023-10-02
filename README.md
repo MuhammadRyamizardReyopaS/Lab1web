@@ -49,7 +49,7 @@ menggunakan tad
 
 contoh
 
-![foto 3.PNG](foto 3.PNG)
+![foto 3.PNG]
 
 #### 4. Menambahkan gambar 
 
