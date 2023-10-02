@@ -18,7 +18,7 @@ Code
 ```
 hasil
 ```
-![gbr1](foto/gbr1.png)
+![kosong](foto/kosong.png)
 
 #### 1. Menambahkan Paragraf 
 
